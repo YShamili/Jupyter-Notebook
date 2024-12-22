@@ -19,7 +19,8 @@ This respositary contains a simple game TIC-TAC-TOE game implemented using Pytho
 *Each player will choose their markings 'X' or 'O'.<br>
 *First chance will be given to a player using random technique.<br>
 *Each player will take turns entering the positions where they want to the markings.<br>
-*The positions are like 1 2 3<br>
-                        4 5 6<br>
-                        7 8 9 .<br>
+*The positions are like 
+ 1 2 3<br>
+ 4 5 6<br>
+ 7 8 9 .<br>
 *The game ends when one player wins or when the grid is completely filled(draw).<br>
