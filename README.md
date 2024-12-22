@@ -9,17 +9,17 @@ This respositary contains a simple game TIC-TAC-TOE game implemented using Pytho
 * Easy to read the code.
 
 ## Requirments:
-To run the game, you will need:
-*Python 3.x installed on your machine.
-*Jupyter notebook(Available with Anaconda installer)
-*Libraries(if used)
+*To run the game, you will need:<br>
+*Python 3.x installed on your machine.<br>
+*Jupyter notebook(Available with Anaconda installer)<br>
+*Libraries(if used)<br>
 
 ## How to play:
-*The game is played between two players.
-*Each player will choose their markings 'X' or 'O'.
-*First chance will be given to a player using random technique.
-*Each player will take turns entering the positions where they want to the markings.
-*The positions are like 1 2 3
-                        4 5 6
-                        7 8 9 .
-*The game ends when one player wins or when the grid is completely filled(draw).
+*The game is played between two players.<br>
+*Each player will choose their markings 'X' or 'O'.<br>
+*First chance will be given to a player using random technique.<br>
+*Each player will take turns entering the positions where they want to the markings.<br>
+*The positions are like 1 2 3<br>
+                        4 5 6<br>
+                        7 8 9 .<br>
+*The game ends when one player wins or when the grid is completely filled(draw).<br>
