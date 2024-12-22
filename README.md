@@ -7,7 +7,7 @@ This respositary contains a simple game TIC-TAC-TOE game implemented using Pytho
 * Two player functionality.
 * Dynamic board updates after each move.
 * Easy to read the code.
-* 
+
 ## Requirments:
 To run the game, you will need:
 *Python 3.x installed on your machine.
